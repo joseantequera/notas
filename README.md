@@ -6,6 +6,7 @@
 ###### i) sexta linea
 
 # Tablas
+
 | columna 1 | columna 2|
 |----|----|
 |Génesis|1|
