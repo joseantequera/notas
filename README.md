@@ -1,9 +1,10 @@
-# I. notas
+# I. Jose
 ## A. archivo de mis notas
 ### 1. Tercera linea
 #### a. Cuarta linea
 ##### 1) quinta linea
 ###### i) sexta linea
+# II. FILOMENO 
 
 # Tablas
 
@@ -18,7 +19,7 @@
 
 > esto es un bloque
 >
-
+  
 - lista orden 1
 - lista orden 2
 
