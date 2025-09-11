@@ -28,9 +28,13 @@
 ### 1. El dia esperado ha llegado. Salmo 110:1-2: "Dice el SEÑOR a mi Señor: «Siéntate a Mi diestra, Hasta que ponga a Tus enemigos por estrado de Tus pies». El SEÑOR extenderá desde Sión Tu poderoso cetro, diciendo: «Domina en medio de Tus enemigos»."
 ### 2. Génesis 3:15: "… Él te herirá en la cabeza, Y tú lo herirás en el talón»." La serpiente es atada en el milenio (Apocalipsis 20:2) y finalmente derrotada (Apocalipsis 20:10), la serpiente aplazastada.
 ### 3. Salmo 2:9,11: "Tú los quebrantarás con vara de hierro; Los desmenuzarás como vaso de alfarero” ». … Adoren al SEÑOR con reverencia, Y alégrense con temblor."
-### 4. Filipenses 2:9-11: "Por lo cual Dios también lo exaltó hasta lo sumo, y le confirió el nombre que es sobre todo nombre, para que al nombre de Jesús SE DOBLE TODA RODILLA de los que están en el cielo, y en la tierra, y debajo de la tierra, y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre."
-### 5. El reinado del cordero durara mil años literales, no se debe tomar estos pasajes de manera alegorica ya que en este capitulo se menciona 6 veces enfatizando claramente que tendra cumplimineto literal. Apocalipsis 20:2; 3; 4; 5; 6; 7.
-### .
+### 4.En su primera venida, Cristo habia sido rechazado por su pueblo, Juan 1:11; Hechos 3:14-15
+### 5. Filipenses 2:9-11: "Por lo cual Dios también lo exaltó hasta lo sumo, y le confirió el nombre que es sobre todo nombre, para que al nombre de Jesús SE DOBLE TODA RODILLA de los que están en el cielo, y en la tierra, y debajo de la tierra, y toda lengua confiese que Jesucristo es Señor, para gloria de Dios Padre."
+### 6. El reinado del cordero durara mil años literales, no se debe tomar estos pasajes de manera alegorica ya que en este capitulo se menciona 6 veces enfatizando claramente que tendra cumplimineto literal. Apocalipsis 20:2; 3; 4; 5; 6; 7.
+### 7. El Gran Trono Blanco donde son abiertos los libros y los incredulos son juzgados por sus obras, tambien la muerte y el hades reciben su juicio.
+
+
+
 #### a. Cuarta linea
 ##### 1) quinta linea
 ###### i) sexta linea
