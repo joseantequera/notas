@@ -73,15 +73,3 @@ codigo
 ```
 ---
 [esto es un link](https://duckduckgo.com)
-
-<script src='https://www.blueletterbible.org/assets/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
-<script type='text/javascript'>
-BLB.Tagger.Translation = 'RVR60';
-BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
-BLB.Tagger.HideTanslationAbbrev = false;
-BLB.Tagger.DarkTheme = true;
-BLB.Tagger.TargetNewWindow = true;
-BLB.Tagger.Style = 'par'; // 'line' or 'par'
-BLB.Tagger.NoSearchTagNames = ''; // HTML element list
-BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
-</script>
