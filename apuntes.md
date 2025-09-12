@@ -79,16 +79,3 @@
 #### El agua viva no puede ganar, tampoco trabajas por optenerla y tampoco se puede comprar, por eso Dios lo ofrece de manera gratuita.
 
 #### Esta es una invitacion a los incredulos a beber del agua viva por la Fe en Jesucristo. 
-
-									<script src='https://www.blueletterbible.org/assets/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
-									<script type='text/javascript'>
-									// Additional settings
-									BLB.Tagger.Translation = 'RVR60';
-									BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
-									BLB.Tagger.HideTanslationAbbrev = false;
-									BLB.Tagger.DarkTheme = true;
-									BLB.Tagger.TargetNewWindow = true;
-									BLB.Tagger.Style = 'par'; // 'line' or 'par'
-									BLB.Tagger.NoSearchTagNames = ''; // HTML element list
-									BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
-									</script>
