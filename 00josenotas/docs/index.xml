@@ -7,5 +7,14 @@
     <generator>Hugo -- 0.150.0</generator>
     <language>es</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hola</title>
+      <link>http://localhost:1313/hola/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hola/</guid>
+      <description>&lt;h1 id=&#34;hola-soy-00josenotas&#34;&gt;Hola soy 00JoseNotas&lt;/h1&gt;
+&lt;h2 id=&#34;otra-nota-aqui&#34;&gt;otra nota aqui&lt;/h2&gt;
+&lt;p&gt;juan 4:23&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
