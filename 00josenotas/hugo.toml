@@ -1,0 +1,4 @@
+baseURL = 'https://joseantequera.github.io/'
+languageCode = 'es'
+title = '00JoseNotas'
+theme = 'PaperMod'
