@@ -3,6 +3,6 @@ languageCode = 'es'
 title = '00JoseNotas'
 theme = 'Ananke Gohugo Theme'
 PublishDir = 'docs'
+site_logo = "images/notas.png"
 [params]
 read_more_copy = "leer mas"
-site_logo = "images/notas.png"
